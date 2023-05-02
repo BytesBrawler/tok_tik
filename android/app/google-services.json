@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268404535960",
+    "project_id": "tik-tok-clone-3b04c",
+    "storage_bucket": "tik-tok-clone-3b04c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268404535960:android:c5036ff2e8ecdfb281d6ed",
+        "android_client_info": {
+          "package_name": "com.imran.tok_tik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268404535960-96shdlcrv7kud5t18537adeds1sepch6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJZ8fz7j7Er2NGl04YdHwUGHNMKMVUhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268404535960-96shdlcrv7kud5t18537adeds1sepch6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
