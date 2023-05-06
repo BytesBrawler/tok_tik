@@ -15,7 +15,7 @@ class LoginScreen extends StatelessWidget {
             Container(
               width: MediaQuery.of(context).size.width,
               height: MediaQuery.of(context).size.height,
-              decoration: BoxDecoration(image: DecorationImage(image: AssetImage("assets/images/login.jpg"))),
+            //  decoration: BoxDecoration(image: DecorationImage(image: AssetImage("assets/images/login.jpg"))),
               alignment: Alignment.center,
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,

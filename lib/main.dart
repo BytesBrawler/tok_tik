@@ -11,7 +11,8 @@ void main() async{
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
-  ).then((value) {
+  )
+      .then((value) {
     Get.put(AuthController());
   });
   runApp(const MyApp());
@@ -24,9 +25,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'tik tok  clone app',
       theme: ThemeData.dark().copyWith(scaffoldBackgroundColor: backgroundColor),
-      home: SignUpScreen(),
+      home: LoginScreen(),
     );
   }
 }
