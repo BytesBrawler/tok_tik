@@ -1,16 +1,17 @@
-# tok_tik
+<div align="center"><h1> Tok tik </h1> </div>
 
-a tiktok clone app
+# About
+!!!CURRENTLY UNDER DEVELOPMENT!!! A clone of popular social media app Tik tok but with more perfection and entertainment.
 
-## Getting Started
+# Screenshots
+![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/ok%20tik.jpeg)
+![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/ok%20tik.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+![Firebase cloude storage](https://img.shields.io/badge/-Firebase%20Cloud%20Storage-yellow)
+![Firebase auth](https://img.shields.io/badge/-Firebase%20Auth-yellow)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
