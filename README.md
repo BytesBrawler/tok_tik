@@ -4,8 +4,8 @@
 !!!CURRENTLY UNDER DEVELOPMENT!!! A clone of popular social media app Tik tok but with more perfection and entertainment.
 
 # Screenshots
-![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/ok%20tik.jpeg)
-![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/ok%20tik.jpeg)
+<img src="https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/ok%20tik.jpeg" alt= "screenshot" width="30%" height="40%" />
+<img src="https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/tok%20tik2.jpeg" alt= "screenshot" width="30%" height="40%" />
 
 # Tech Stack
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge)
